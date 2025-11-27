@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What services do you offer?",
+        "answer": "Tech Mahindra provides a wide range of technology and consulting services including Cloud Modernization, AI/ML Solutions, Digital Transformation, Cybersecurity, Enterprise Automation, Application Development, Data Engineering, Managed IT Services, and Customer Experience (CX) platforms."
+    },
+    {
+        "question": "What are your pricing or project charges?",
+        "answer": "Pricing varies based on the project scope, timeline, and technology requirements. I can check with our senior solutions architect and email you the exact details for your specific use case."
+    },
+    {
+        "question": "Do you offer any free resources?",
+        "answer": "Yes! Tech Mahindra provides free case studies, whitepapers, technology insights, webinars, and industry reports. We also offer initial consultations for some solutions depending on the engagement type."
+    },
+    {
+        "question": "Do you provide consulting for AI, Cloud, or Digital Transformation?",
+        "answer": "Absolutely. Tech Mahindra offers full-scale consulting and implementation support for Cloud adoption, AI/ML strategy, enterprise automation, cybersecurity, and large-scale digital transformation initiatives. Pricing and engagement models depend on your requirements."
+    }
+]
